@@ -9,6 +9,15 @@
 
 
 
+# Instalar Git 
+
+```
+pkg install git 
+```
+
+
+
+
 # Instalação Termux!
 
 
