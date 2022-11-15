@@ -24,3 +24,5 @@ pkg install git
 ```
 bash https://github.com/jovemsigilosodobembr/Kali-Linux-Lite
 ```
+
+# Está em desenvolvimento
