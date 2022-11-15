@@ -1,4 +1,4 @@
-![Kali Linux](images/findomain.png)
+![Kali Linux](images/boot/grub/themes/kali/grub-16x9.png)
  
  
  ```
