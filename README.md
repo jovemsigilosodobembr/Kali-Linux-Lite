@@ -27,4 +27,18 @@ pkg install git
 bash https://github.com/jovemsigilosodobembr/Kali-Linux-Lite
 ```
 
-# Está em desenvolvimento
+
+# Qual Ferramentas vem??
+
+1- ifconfig 
+2- tor 
+
+# Lista de ferramentas Removidas, Mais pode instalar manualmente!!
+
+1 - Nmap
+2- Sqlmap
+
+
+# ⚠Está em desenvolvimento ⚠
+
+
