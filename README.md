@@ -1,8 +1,10 @@
  Kali-Linux-Lite
  
-================================
-Então Deixei o kali linux leve
-================================
+--------------------------------
+-Então Deixei o kali linux leve -
+--------------------------------
+
+
 
 # Instalação Termux!
 
