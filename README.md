@@ -1,6 +1,6 @@
-# Midificado por Gilmar Filho
+# Modificado por Gilmar Filho
 
-![Kali Linux](boot/grub/themes/kali/grub-16x9.png)
+![Kali Linux Lite ](boot/grub/themes/kali/grub-16x9.png)
  
  
  ```
